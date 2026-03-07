@@ -1,0 +1,22 @@
+﻿My Observations About the Iris Dataset
+
+
+Dataset Overview:
+* Number of samples: 150
+* - Number of features: 4
+* - Number of classes:  3
+
+
+Key Findings from the Visualization:
+1. The Scatterplot had each Species with a  color coded dot (Setosa=Red, Versicolor=Blue, Virginica=Green)
+2. The Bar Chart had each Species categorized by color as well along with the exact count of samples per Species
+3. The Scatterplot also showed the range of Sepal Width vs. Sepal Length
+
+
+Questions for Further Investigation:
+- How many other species are there?
+- Can the tool create a more complex chart?
+
+
+**Reflection:**
+I got to see how much time can be saved by using Python. The error codes  feedback was extremely helpful with learning how to correct my mistakes.
